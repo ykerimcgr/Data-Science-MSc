@@ -1,2 +1,11 @@
-/Final/
-/venv/
+Final/
+venv/
+# Sistem dosyaları
+.DS_Store
+
+# Derlenmiş Python dosyaları
+__pycache__/
+*.pyc
+
+# Jupyter Notebooks'un checkpoint dosyaları
+*.ipynb_checkpoints
